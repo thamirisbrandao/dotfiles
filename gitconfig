@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = brandao.thamiris@gmail.com
+	name = thamiris brandao
