@@ -51,4 +51,6 @@
   rebase = false
 [user]
 	email = brandao.thamiris@gmail.com
-	name = Thamiris Campos
+	name = thamiris brandao
+[credential]
+	helper = cache
